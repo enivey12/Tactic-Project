@@ -1354,8 +1354,8 @@ body {
   font-family: "Nunito", sans-serif;
   overflow-x: hidden !important;
   font-size: 16px;
-  background-color: #0b0b0b;
-  color: whitesmoke;
+  background-color: #f5f5f5;
+  color: black;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -1586,7 +1586,7 @@ p {
 
 #topnav .logo {
   float: left;
-  color: whitesmoke !important;
+  color: #5e2fd4 !important;
 }
 
 #topnav .has-submenu.active a {
@@ -1707,7 +1707,7 @@ p {
 
 #topnav .navigation-menu > li > a {
   display: block;
-  color: whitesmoke;
+  color: #5e2fd4;
   font-size: 13px;
   background-color: transparent !important;
   font-weight: 700;
@@ -3388,7 +3388,7 @@ p {
 }
 
 .footer {
-  background: #202942;
+  background: #fff;
   padding: 60px 0;
   position: relative;
   color: #adb5bd;
@@ -3484,7 +3484,7 @@ hr {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #252525;
+  background: #fff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
